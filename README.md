@@ -1,4 +1,4 @@
-# peliculas
+# Peliculas
 
 A new Flutter project connected with MovieDB API.
 
