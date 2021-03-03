@@ -1,6 +1,6 @@
 # peliculas
 
-A new Flutter project.
+A new Flutter project connected with MovieDB API.
 
 ## Getting Started
 
